@@ -9,8 +9,8 @@ hero_slider:
       title : "Sustainable Industrial Hubs"
       content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
       and strategic growth."
-      bg_image_webp : "images/slider/image5.jpg"
-      bg_image : "images/slider/image5.jpg"
+      bg_image_webp : "images/slider/image44.jpeg"
+      bg_image : "images/slider/image44.jpeg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -19,25 +19,11 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "Solaris"
-      title : "Advanced Photovoltaic Manufacturing"
-      content : "High-performance solar panel production powered by cutting-edge technology and precision engineering."
-      bg_image_webp : "images/slider/drone_pictures_23.jpg"
-      bg_image : "images/slider/drone_pictures_23.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "http://solaristangier.ma"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "GPM Services"
-      title : "Operational Excellence"
-      content : "Comprehensive maintenance and specialized cleaning solutions to ensure the maximum efficiency of solar 
-      installations."
-      bg_image_webp : "images/slider/bg_development_-1.jpg"
-      bg_image : "images/slider/bg_development_-1.jpg"
+    - subtitle : "GPM Parks"
+      title : "UTILITY-SCALE SOLAR GENERATION"
+      content : "Utility-scale solar plants are designed to operate for 25–30 years with minimal degradation."
+      bg_image_webp : "images/slider/09.png"
+      bg_image : "images/slider/09.png"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -46,30 +32,17 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "GPM Polysilicon"
-      title : "The Foundation of Solar Value"
-      content : "Securing high-purity polysilicon production to power the global transition to renewable energy."
-      bg_image_webp : "images/slider/polysilicon_solar_cell.jpg"
-      bg_image : "images/slider/polysilicon_solar_cell.jpg"
+    - subtitle : "GPM Parks"
+      title : "Maximum power with every panel"
+      content : "Focusing on projects that are technically robust, environmentally responsible, and economically viable 
+      over the long term."
+      bg_image_webp : "images/slider/image5.jpg"
+      bg_image : "images/slider/image5.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
         link : "http://sondiale.ma"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "GPM Mobility"
-      title : "Powering the Electric Future"
-      content : "Building the essential infrastructure for electric vehicle charging and a sustainable transport 
-      ecosystem."
-      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.jpg"
-      bg_image : "images/slider/electric-cars-parking-lot-charging.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "http://gp-mobilite.ma"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
@@ -78,24 +51,24 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Green Polysilicon Unit"
-      icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "An annual</br>production capacity of</br>30,000 tons."
+    - name : "Utility-Scale Solar Plants"
+      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Large-scale photovoltaic power plants with minimal degradation."
       
     # banner feature item loop
-    - name : "High efficiency"
-      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Capture more sunlight and generate maximum power with every panel."
+    - name : "Solar Tracking Technology"
+      icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Advanced horizontal-axis solar trackers for full day productivity."
       
     # banner feature item loop
-    - name : "Eco-Friendly"
-      icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Power your life with clean energy that protects our planet."
+    - name : "Grid Integration Excellence"
+      icon : "fas fa-plug" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Seamless integration into national electrical grid for reliable power supply."
       
     # banner feature item loop
-    - name : "Reduce Shipping Cost"
-      icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Engineered for efficiency, lower costs from our factory to your roof."
+    - name : "Environmental Impact Reduction"
+      icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Zero-emission electricity generation avoids reduces dependence on fossil fuels."
 
 
 ################################## about ####################################
