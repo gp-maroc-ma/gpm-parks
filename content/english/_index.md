@@ -21,7 +21,7 @@ hero_slider:
     # slider item
     - subtitle : "GPM Parks"
       title : "UTILITY-SCALE SOLAR GENERATION"
-      content : "Utility-scale solar plants are designed to operate for 25–30 years with minimal degradation."
+      content : "Utility-scale solar plants are designed to operate for 25-30 years with minimal degradation."
       bg_image_webp : "images/slider/09.png"
       bg_image : "images/slider/09.png"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
@@ -63,40 +63,34 @@ banner_feature:
     # banner feature item loop
     - name : "Grid Integration Excellence"
       icon : "fas fa-plug" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Seamless integration into national electrical grid for reliable power supply."
+      content : "Seamless integration into the national electrical grid for reliable power supply."
       
     # banner feature item loop
     - name : "Environmental Impact Reduction"
       icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Zero-emission electricity generation avoids reduces dependence on fossil fuels."
+      content : "Zero-emission electricity generation avoids reducing dependence on fossil fuels."
 
 
 ################################## about ####################################
 about:
   enable : true
   subtitle : "About Us"
-  title : "We Are Dynamic Team"
+  title : "What GPM Parks Does"
   
-  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy, 
-  currently operating in 3 segments of the renewable energy sector: PV Solar Panels manufacturing, 
-  PV Solar Parks and Operation & Maintenance of PV Solar Parks to revolutionizing the renewable energy sector 
-  in Africa. <br><br>
-  The company is progressing toward its strategic objective of entering a new market segment within 
-  the green polysilicon manufacturing value chain through the Sondiale project.  <br><br>
-  Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
-  already   operational and several others in the development phase progressing steadily. These projects showcase our 
-  dedication   to empowering communities with clean energy solutions. <br><br>
-  In tandem with our manufacturing and  project development   endeavors, our service company delivers tailored 
-  solutions to meet the needs of both our valued  clients and our own internal operations. From installation and 
-  maintenance to technical assistance, the services GPM   provides ensure seamless functionality and 
-  unmatched customer satisfaction. <br><br>
-  With a mission to harness the power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future 
-  of energy production while aligning itself with the Kingdom’s renewable energy goals."
+  content : "GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants 
+  convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
+  <br><br>
+  Utility-scale solar plants consist of thousands of photovoltaic panels installed on large tracts of land, supported 
+  by electrical infrastructure such as inverters, transformers, and substations. These systems are designed to operate 
+  for 25-30 years with minimal degradation.
+  <br><br>
+  GPM Parks focuses on projects that are technically robust, environmentally responsible, and economically viable over 
+  the long term."
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.jpg"
-  image : "images/about/about-us.jpg"
+  image_webp : "images/about/image3.jpeg"
+  image : "images/about/image3.jpeg"
   button:
     enable : true;
     label : "more service"
@@ -178,9 +172,9 @@ project:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "GPM Holding give the smart solution for your business"
-  bg_image_webp : "images/backgrounds/cta-lg.webp"
-  bg_image : "images/backgrounds/cta-lg.jpg"
+  title : "Power Your Future with Clean Energy Solutions"
+  bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
+  bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   button:
     enable : true
     label : "get a quote"
@@ -212,7 +206,7 @@ testimonial:
 
 ################################# partners #########################################
 partners:
-  enable : true
+  enable : false
   subtitle : "PARTNERS"
   title : "Our Strategic Partners"
   partners_item:
