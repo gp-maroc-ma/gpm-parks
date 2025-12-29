@@ -9,8 +9,8 @@ hero_slider:
       title : "Sustainable Industrial Hubs"
       content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
       and strategic growth."
-      bg_image_webp : "images/slider/image5.jpg"
-      bg_image : "images/slider/image5.jpg"
+      bg_image_webp : "images/slider/image44.jpeg"
+      bg_image : "images/slider/image44.jpeg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -19,25 +19,11 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "Solaris"
-      title : "Advanced Photovoltaic Manufacturing"
-      content : "High-performance solar panel production powered by cutting-edge technology and precision engineering."
-      bg_image_webp : "images/slider/drone_pictures_23.jpg"
-      bg_image : "images/slider/drone_pictures_23.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "http://solaristangier.ma"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "GPM Services"
-      title : "Operational Excellence"
-      content : "Comprehensive maintenance and specialized cleaning solutions to ensure the maximum efficiency of solar 
-      installations."
-      bg_image_webp : "images/slider/bg_development_-1.jpg"
-      bg_image : "images/slider/bg_development_-1.jpg"
+    - subtitle : "GPM Parks"
+      title : "UTILITY-SCALE SOLAR GENERATION"
+      content : "Utility-scale solar plants are designed to operate for 25-30 years with minimal degradation."
+      bg_image_webp : "images/slider/09.png"
+      bg_image : "images/slider/09.png"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -46,30 +32,17 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "GPM Polysilicon"
-      title : "The Foundation of Solar Value"
-      content : "Securing high-purity polysilicon production to power the global transition to renewable energy."
-      bg_image_webp : "images/slider/polysilicon_solar_cell.jpg"
-      bg_image : "images/slider/polysilicon_solar_cell.jpg"
+    - subtitle : "GPM Parks"
+      title : "Maximum power with every panel"
+      content : "Focusing on projects that are technically robust, environmentally responsible, and economically viable 
+      over the long term."
+      bg_image_webp : "images/slider/image5.jpg"
+      bg_image : "images/slider/image5.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
         link : "http://sondiale.ma"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "GPM Mobility"
-      title : "Powering the Electric Future"
-      content : "Building the essential infrastructure for electric vehicle charging and a sustainable transport 
-      ecosystem."
-      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.jpg"
-      bg_image : "images/slider/electric-cars-parking-lot-charging.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "http://gp-mobilite.ma"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
@@ -78,52 +51,46 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Green Polysilicon Unit"
-      icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "An annual production capacity of 30,000 tons."
+    - name : "Utility-Scale Solar Plants"
+      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Large-scale photovoltaic power plants with minimal degradation."
       
     # banner feature item loop
-    - name : "High efficiency"
-      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Capture more sunlight and generate maximum power with every panel."
+    - name : "Solar Tracking Technology"
+      icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Advanced horizontal-axis solar trackers for full day productivity."
       
     # banner feature item loop
-    - name : "Eco-Friendly"
-      icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Power your life with clean energy that protects our planet."
+    - name : "Grid Integration Excellence"
+      icon : "fas fa-plug" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Seamless integration into the national electrical grid for reliable power supply."
       
     # banner feature item loop
-    - name : "Reduce Shipping Cost"
-      icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Engineered for efficiency, lower costs from our factory to your roof."
+    - name : "Environmental Impact Reduction"
+      icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Zero-emission electricity generation avoids reducing dependence on fossil fuels."
 
 
 ################################## about ####################################
 about:
   enable : true
   subtitle : "About Us"
-  title : "We Are Dynamic Team"
+  title : "What GPM Parks Does"
   
-  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy, 
-  currently operating in 3 segments of the renewable energy sector: PV Solar Panels manufacturing, 
-  PV Solar Parks and Operation & Maintenance of PV Solar Parks to revolutionizing the renewable energy sector 
-  in Africa. <br><br>
-  The company is progressing toward its strategic objective of entering a new market segment within 
-  the green polysilicon manufacturing value chain through the Sondiale project.  <br><br>
-  Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
-  already   operational and several others in the development phase progressing steadily. These projects showcase our 
-  dedication   to empowering communities with clean energy solutions. <br><br>
-  In tandem with our manufacturing and  project development   endeavors, our service company delivers tailored 
-  solutions to meet the needs of both our valued  clients and our own internal operations. From installation and 
-  maintenance to technical assistance, the services GPM   provides ensure seamless functionality and 
-  unmatched customer satisfaction. <br><br>
-  With a mission to harness the power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future 
-  of energy production while aligning itself with the Kingdom’s renewable energy goals."
+  content : "GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants 
+  convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
+  <br><br>
+  Utility-scale solar plants consist of thousands of photovoltaic panels installed on large tracts of land, supported 
+  by electrical infrastructure such as inverters, transformers, and substations. These systems are designed to operate 
+  for 25-30 years with minimal degradation.
+  <br><br>
+  GPM Parks focuses on projects that are technically robust, environmentally responsible, and economically viable over 
+  the long term."
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.jpg"
-  image : "images/about/about-us.jpg"
+  image_webp : "images/about/image3.jpeg"
+  image : "images/about/image3.jpeg"
   button:
     enable : true;
     label : "more service"
@@ -157,29 +124,70 @@ funfacts :
 ################################# feature ############################################
 feature:
   enable : true
-  subtitle : "Why Choose Us"
-  title : "Why They Choose GPM Holding"
-  image_webp : "images/feature/bg_about_01.jpg"
-  image : "images/feature/bg_about_01.jpg"
-  content : "Our focus centers on innovation. We believe, in offering the most innovative products, we can provide our 
-  customers with ease and access to reliable and bespoke sustainable solutions."
+  subtitle : "Manufacturing & Technology"
+  title : "Solar Park Technology"
+  image_webp : "images/about/image3.jpeg"
+  image : "images/about/image3.jpeg"
+  content : ""
   feature_item:
     # feature item loop
-    - name : "Creative Design"
-      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "By combining physical tempering technology with a unique solar module design concept, our panels are 
-      proven to withstand longer lifetimes with better electrical efficiencies."
+    - name : "State-of-the-Art Equipment for Clean Energy Production"
+      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and 
+      high-performance energy production.
+      <br><br> 
+      - <b>Solar Tracking:</b> The panels are mounted on horizontal-axis solar trackers aligned in a North-South 
+      direction. This technology allows the panels to follow the sunlight from sunrise to sunset, maximizing energy 
+      production throughout the day. <br>
+      - <b>Energy Conversion:</b> Photovoltaic panels capture solar energy and convert it into electricity. This output 
+      is optimized by inverter systems that ensure a stable and efficient transformation of the current.<br>
+      - <b>Grid Integration:</b> The energy produced is transmitted via transformer stations and delivery substations, 
+      allowing for safe and seamless integration into the national electrical grid.
+      <br><br> This system offers fluid, secure operation compliant with industry best practices while supplying green 
+      electricity to the network."
+     
+      
+################################# feature ############################################
+solutions:
+  enable : true
+  subtitle : "Project Solutions"
+  title : "GPM 1, GPM 2 & GPM 4"
+  image_webp : "images/about/image3.jpeg"
+  image : "images/about/image3.jpeg"
+  content : ""
+  feature_item:
+    # feature item loop
+    - name : "Project GreenPower Morocco 1 – Operational"
+      icon : "fas fa-check" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac 
+      photovoltaic park. The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah 
+      prefecture.
+      <br><br>      
+      Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant 
+      contribution to Morocco's green energy infrastructure.
+      <br>
+      - Project: GreenPower Morocco 1 (Operational)<br>
+      - Location: Hjar Ennhal, Tangier-Asilah<br>
+      - Capacity: 30 MWac <br>
+      - Surface Area: 72 hectares <br>
+      - Annual Production: Approximately 67 GWh <br>
+      - Total Investment: 37 million USD<br>"
       
     # feature item loop
-    - name : "Innovative Solutions"
-      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "The advanced technology behind our dual-glass photovoltaic modules position us to 
-      provide our customers with a flawless integration of sleek design, guaranteed durability and long-term, 
-      cost-effective sustainable solutions"
+    - name : "Projects Under Development: GPM 2 & GPM 4"
+      icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and 
+      GreenPower Morocco 4.
+      <br><br> 
+      Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity 
+      production from renewable sources and promotes the development of green energy projects in Morocco.
+      <br><br> 
+      GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
+      Morocco"
 
 ################################# service ############################################
 service:
-  enable : false
+  enable : true
   section: "service"
   show_item : 3
   # service item comes from "content/*/service" folder
@@ -205,11 +213,11 @@ project:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "GPM Holding give the smart solution for your business"
-  bg_image_webp : "images/backgrounds/cta-lg.webp"
-  bg_image : "images/backgrounds/cta-lg.jpg"
+  title : "Power Your Future with Clean Energy Solutions"
+  bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
+  bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   button:
-    enable : true
+    enable : false
     label : "get a quote"
     link : "#contacts"
     
@@ -239,7 +247,7 @@ testimonial:
 
 ################################# partners #########################################
 partners:
-  enable : true
+  enable : false
   subtitle : "PARTNERS"
   title : "Our Strategic Partners"
   partners_item:

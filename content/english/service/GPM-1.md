@@ -16,33 +16,12 @@ image_width: "200px"
 GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac photovoltaic park. 
 The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah prefecture.
 
-{{< image src="/images/service/image3.jpeg" srcAlt="" >}}
-
 Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant 
 contribution to Morocco's green energy infrastructure.
 
-- Project: GreenPower Morocco 1 (Operational)
-- Location: Hjar Ennhal, Tangier-Asilah
-- Capacity: 30 MWac
-- Surface Area: 72 hectares
-- Annual Production: Approximately 67 GWh
-- Total Investment: 37 million USD
-
-### Technology & Infrastructure
-
-The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and high-performance 
-energy production.
-
-- **Solar Tracking:** The panels are mounted on horizontal-axis solar trackers aligned in a North-South direction. This 
-technology allows the panels to follow the sunlight from sunrise to sunset, maximizing energy production throughout 
-the day.
-- **Energy Conversion:** Photovoltaic panels capture solar energy and convert it into electricity. This output is 
-optimized by inverter systems that ensure a stable and efficient transformation of the current.
-- **Grid Integration:** The energy produced is transmitted via transformer stations and delivery substations, allowing 
-for safe and seamless integration into the national electrical grid.
-
-This system offers fluid, secure operation compliant with industry best practices while supplying green electricity to the network.
-
-{{< image src="/images/service/image4.jpeg" srcAlt="" >}}
- 
-{{< image src="/images/service/image5.jpg" srcAlt="" >}}
+- <b>Project:</b> GreenPower Morocco 1 (Operational)
+- <b>Location:</b> Hjar Ennhal, Tangier-Asilah
+- <b>Capacity:</b> 30 MWac
+- <b>Surface Area:</b> 72 hectares
+- <b>Annual Production:</b> Approximately 67 GWh
+- <b>Total Investment:</b> 37 million USD
