@@ -132,7 +132,7 @@ feature:
   feature_item:
     # feature item loop
     - name : "State-of-the-Art Equipment for Clean Energy Production"
-      icon : "fas fa-check-circle" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
       content : "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and 
       high-performance energy production.
       <br><br> 
@@ -187,7 +187,7 @@ solutions:
 
 ################################# service ############################################
 service:
-  enable : false
+  enable : true
   section: "service"
   show_item : 3
   # service item comes from "content/*/service" folder
@@ -217,7 +217,7 @@ cta:
   bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   button:
-    enable : true
+    enable : false
     label : "get a quote"
     link : "#contacts"
     

@@ -15,10 +15,10 @@
   </div>
   <div class="service-wrapper">
     <div class="container">
-      <div class="row">
+      <div class="row flex-column">
         {{ range first ($show_item | default 3) .Data.Pages }}
         {{ "<!-- service-item -->" | safeHTML }}
-        <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="col-12 mb-4">
          {{ partial "service-card.html" . }}
         </div>
         {{ end }}

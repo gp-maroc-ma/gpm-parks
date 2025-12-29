@@ -13,10 +13,11 @@ image_width: "200px"
 #icon: "fas fa-briefcase" #font-awesome 5 : https://fontawesome.com/icons/
 ---
 
-GPM Services is the dedicated entity responsible for the operation and maintenance of the photovoltaic solar parks.
-Our team ensures the optimal performance, reliability, and continuity of renewable energy production, guaranteeing that our facilities operate at peak efficiency.
+GPM Holding is currently developing two additional photovoltaic solar parks:
+**GreenPower Morocco 2 and GreenPower Morocco 4.**
 
+Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity production from
+renewable sources and promotes the development of green energy projects in Morocco.
 
-{{< image src="/images/service/image8.jpeg" srcAlt="" >}}
-
-{{< image src="/images/service/image9.jpeg" srcAlt="" >}}
+GPM Holding is currently developing two additional photovoltaic solar parks:
+**GreenPower Morocco 2 and GreenPower Morocco**
