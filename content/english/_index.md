@@ -124,6 +124,32 @@ funfacts :
 ################################# feature ############################################
 feature:
   enable : true
+  subtitle : "Manufacturing & Technology"
+  title : "Solar Park Technology"
+  image_webp : "images/about/image3.jpeg"
+  image : "images/about/image3.jpeg"
+  content : ""
+  feature_item:
+    # feature item loop
+    - name : "State-of-the-Art Equipment for Clean Energy Production"
+      icon : "fas fa-check-circle" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and 
+      high-performance energy production.
+      <br><br> 
+      - <b>Solar Tracking:</b> The panels are mounted on horizontal-axis solar trackers aligned in a North-South 
+      direction. This technology allows the panels to follow the sunlight from sunrise to sunset, maximizing energy 
+      production throughout the day. <br>
+      - <b>Energy Conversion:</b> Photovoltaic panels capture solar energy and convert it into electricity. This output 
+      is optimized by inverter systems that ensure a stable and efficient transformation of the current.<br>
+      - <b>Grid Integration:</b> The energy produced is transmitted via transformer stations and delivery substations, 
+      allowing for safe and seamless integration into the national electrical grid.
+      <br><br> This system offers fluid, secure operation compliant with industry best practices while supplying green 
+      electricity to the network."
+     
+      
+################################# feature ############################################
+solutions:
+  enable : true
   subtitle : "Project Solutions"
   title : "GPM 1, GPM 2 & GPM 4"
   image_webp : "images/about/image3.jpeg"
