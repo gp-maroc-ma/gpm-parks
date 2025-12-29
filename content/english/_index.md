@@ -124,25 +124,40 @@ funfacts :
 ################################# feature ############################################
 feature:
   enable : true
-  subtitle : "Why Choose Us"
-  title : "Why They Choose GPM Holding"
-  image_webp : "images/feature/bg_about_01.jpg"
-  image : "images/feature/bg_about_01.jpg"
-  content : "Our focus centers on innovation. We believe, in offering the most innovative products, we can provide our 
-  customers with ease and access to reliable and bespoke sustainable solutions."
+  subtitle : "Project Solutions"
+  title : "GPM 1, GPM 2 & GPM 4"
+  image_webp : "images/about/image3.jpeg"
+  image : "images/about/image3.jpeg"
+  content : ""
   feature_item:
     # feature item loop
-    - name : "Creative Design"
-      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "By combining physical tempering technology with a unique solar module design concept, our panels are 
-      proven to withstand longer lifetimes with better electrical efficiencies."
+    - name : "Project GreenPower Morocco 1 – Operational"
+      icon : "fas fa-check" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac 
+      photovoltaic park. The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah 
+      prefecture.
+      <br><br>      
+      Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant 
+      contribution to Morocco's green energy infrastructure.
+      <br>
+      - Project: GreenPower Morocco 1 (Operational)<br>
+      - Location: Hjar Ennhal, Tangier-Asilah<br>
+      - Capacity: 30 MWac <br>
+      - Surface Area: 72 hectares <br>
+      - Annual Production: Approximately 67 GWh <br>
+      - Total Investment: 37 million USD<br>"
       
     # feature item loop
-    - name : "Innovative Solutions"
-      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "The advanced technology behind our dual-glass photovoltaic modules position us to 
-      provide our customers with a flawless integration of sleek design, guaranteed durability and long-term, 
-      cost-effective sustainable solutions"
+    - name : "Projects Under Development: GPM 2 & GPM 4"
+      icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and 
+      GreenPower Morocco 4.
+      <br><br> 
+      Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity 
+      production from renewable sources and promotes the development of green energy projects in Morocco.
+      <br><br> 
+      GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
+      Morocco"
 
 ################################# service ############################################
 service:
