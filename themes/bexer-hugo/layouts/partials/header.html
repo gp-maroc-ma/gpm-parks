@@ -98,7 +98,7 @@
           {{ end }}
           {{ if site.Params.navigation_button.enable }}
           {{ "<!-- get start btn -->" | safeHTML }}
-          <a href="{{ site.Params.navigation_button.link | absLangURL }}" class="btn btn-primary hover-ripple">{{ site.Params.navigation_button.label }}</a>
+          <a href="{{ site.Params.navigation_button.link | absLangURL }}" class="btn btn-primary hover-ripple text-nowrap">{{ site.Params.navigation_button.label }}</a>
           {{ end }}
         </div>
       </nav>

@@ -1,101 +1,46 @@
 ############# English navigation ##############
 
 # main menu
-[[main]]
-name = "Home"
-url = "/"
-weight = 1
+#[[main]]
+#name = "GPM Holding"
+#url = "https://gp-maroc.gp-maroc.ma/"
+#weight = 7
 
 [[main]]
 name = "About"
 url = "#about"
-weight = 2
-
-#[[main]]
-#name = "GPM Services"
-#url = "service/"
-#weight = 6
-
-#[[main]]
-#name = "GPM Mobility"
-#url = "service/"
-#weight = 7
-
-#[[main]]
-#name = "Blog"
-#url = "blog/"
-#weight = 4
-
-#[[main]]
-#name = "Team"
-#url = "team/"
-#weight = 6
+weight = 1
 
 [[main]]
+name = "Products"
+url = "#products"
+weight = 2
+
+[[main]]
+name = "Manufacturing & Technology"
+url = "#manufacturing"
 weight = 3
-name = "Our Entities"
-hasChildren = true
 
-  [[main]]
-  parent = "Our Entities"
-  name = "GPM Parks"
-  url = "/"
-  weight = 1
+[[main]]
+name = "Project Solutions"
+url = "#solutions"
+weight = 4
 
-  [[main]]
-  parent = "Our Entities"
-  name = "Solaris"
-  url = "/"
-  weight = 2
-
-  [[main]]
-  parent = "Our Entities"
-  name = "Polysilicon"
-  url = "/"
-  weight = 3
-
-  [[main]]
-  parent = "Our Entities"
-  name = "GPM Services"
-  url = "/"
-  weight = 4
-
-  [[main]]
-  parent = "Our Entities"
-  name = "GPM Mobility"
-  url = "/"
-  weight = 5
+[[main]]
+name = "Resources"
+url = "#resources"
+weight = 5
 
 [[main]]
 name = "Contact"
 url = "#contacts"
-weight = 4
+weight = 6
 
 # footer menu
 [[footer_menu]]
-name = "GPM Parks"
-url = "/"
+name = "GPM Holding"
+url = "https://gp-maroc.gp-maroc.ma/"
 weight = 1
-
-[[footer_menu]]
-name = "Solaris"
-url = "/"
-weight = 2
-
-[[footer_menu]]
-name = "Polysilicon"
-url = "/"
-weight = 3
-
-[[footer_menu]]
-name = "GPM Services"
-url = "/"
-weight = 4
-
-[[footer_menu]]
-name = "GPM Mobility"
-url = "/"
-weight = 5
 
 # footer bottom links
 [[footer]]
