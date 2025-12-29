@@ -1,40 +1,44 @@
 ############# English navigation ##############
 
 # main menu
-#[[main]]
-#name = "GPM Holding"
-#url = "https://gp-maroc.gp-maroc.ma/"
-#weight = 7
+[[main]]
+name = "GPM Holding"
+url = "https://gp-maroc.gp-maroc.ma/"
+weight = 1
 
 [[main]]
 name = "About"
 url = "#about"
-weight = 1
+weight = 2
 
 [[main]]
 name = "Products"
 url = "#products"
-weight = 2
+weight = 3
+hasChildren = true
 
 [[main]]
+parent = "Products"
 name = "Manufacturing & Technology"
 url = "#manufacturing"
-weight = 3
-
-[[main]]
-name = "Project Solutions"
-url = "#solutions"
 weight = 4
 
 [[main]]
+parent = "Products"
+name = "Project Solutions"
+url = "#solutions"
+weight = 5
+
+[[main]]
+parent = "Products"
 name = "Resources"
 url = "#resources"
-weight = 5
+weight = 6
 
 [[main]]
 name = "Contact"
 url = "#contacts"
-weight = 6
+weight = 7
 
 # footer menu
 [[footer_menu]]
