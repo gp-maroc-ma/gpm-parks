@@ -13,6 +13,8 @@ image_width: "200px"
 #icon: "fas fa-briefcase" #font-awesome 5 : https://fontawesome.com/icons/
 ---
 
+{{< image src="/images/project/logo-gpm-4.png" srcAlt="" >}}
+
 GPM Holding is currently developing two additional photovoltaic solar parks:
 **GreenPower Morocco 2 and GreenPower Morocco 4.**
 

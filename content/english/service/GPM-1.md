@@ -13,6 +13,8 @@ image_width: "200px"
 #icon: "fas fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
 ---
 
+{{< image src="/images/project/logo-gpm-1.png" srcAlt="" >}}
+
 GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac photovoltaic park. 
 The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah prefecture.
 
