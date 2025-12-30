@@ -101,9 +101,9 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "companies in holding"
-      count : "5"
-      icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
+    - name : "Ongoing projects"
+      count : "3"
+      icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
     - name : "Years Experience"
@@ -111,15 +111,15 @@ funfacts :
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Committed funding, $M"
-      count : "650"
-      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
+    - name : "Annual Production (GWh)"
+      count : "67"
+      icon : "fas fa-bolt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Happy Coustomers"
-      count : "500"
-      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
-
+    - name : "Projects Area (ha)"
+      count : "72"
+      icon : "fas fa-map" # font-awesome 5 : https://fontawesome.com/icons/
+      
 
 ################################# feature ############################################
 feature:

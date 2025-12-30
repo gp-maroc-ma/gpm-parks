@@ -251,6 +251,10 @@ a h5 {
   background-image: linear-gradient(to right, $white 45%, $light 0%);
 }
 
+.bg-green-white {
+  background-image: linear-gradient(to right, $primary-light-color 45%, $white 55%);
+}
+
 .bg-white2-gray {
   background-image: linear-gradient(to right, $white 70%, $light 0%);
 }
