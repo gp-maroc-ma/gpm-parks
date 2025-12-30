@@ -201,9 +201,9 @@ team:
 
 ################################# project ############################################
 project:
-  enable : false
+  enable : true
   section: "project"
-  show_item : 4
+  show_item : 3
   button:
     enable : true
     label : "more projects"
