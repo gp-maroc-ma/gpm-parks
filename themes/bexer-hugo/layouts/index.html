@@ -110,11 +110,11 @@
         <ul class="list-unstyled">
           {{ range .feature_item }}
           {{ "<!-- feature item -->" | safeHTML }}
-          <li class="d-flex align-items-center mb-5">
-            <div class="text-center mr-4">
+          <li class="d-flex flex-column flex-sm-row align-items-center align-items-sm-center mb-5">
+            <div class="text-center mb-3 mb-sm-0 mr-sm-4">
               <div class="icon-bg water-wave"><i class="{{ .icon }} icon text-primary"></i></div>
             </div>
-            <div>
+            <div class="text-sm-left">
               <h4>{{ .name | markdownify }}</h4>
               {{ .content | markdownify }}
             </div>
