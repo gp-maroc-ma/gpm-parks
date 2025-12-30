@@ -15,6 +15,8 @@ category: "Investment"
 status : "In Process"
 ---
 
+{{< image src="/images/project/logo-gpm-2.png" srcAlt="" >}}
+
 GPM Holding is currently developing two additional photovoltaic solar parks:
 **GreenPower Morocco 2 and GreenPower Morocco 4.**
 
