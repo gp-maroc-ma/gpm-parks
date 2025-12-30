@@ -3,12 +3,14 @@ title: "GreenPower Morocco 4"
 # meta description
 description: "this is meta description for service page."
 # page title background image
-bg_image_webp: "images/backgrounds/bg_development_-1-1024x501.jpg"
-bg_image: "images/backgrounds/bg_development_-1-1024x501.jpg"
+bg_image_webp: "images/backgrounds/3_DSC0110.jpg"
+bg_image: "images/backgrounds/3_DSC0110.jpg"
 # service image
-image_webp: "images/service/logo-gpm-4.png"
-image: "images/service/logo-gpm-4.png"
+image_webp: "images/service/image7.jpg"
+image: "images/service/image7.jpg"
 image_width: "200px"
+logo: "images/service/logo-gpm-4.png"
+logo_width: "200px"
 # service icon
 #icon: "fas fa-briefcase" #font-awesome 5 : https://fontawesome.com/icons/
 ---
@@ -21,3 +23,5 @@ renewable sources and promotes the development of green energy projects in Moroc
 
 GPM Holding is currently developing two additional photovoltaic solar parks:
 **GreenPower Morocco 2 and GreenPower Morocco**
+
+{{< image src="/images/service/image5.jpg" srcAlt="" >}}

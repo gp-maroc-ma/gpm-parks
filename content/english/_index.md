@@ -147,35 +147,43 @@ feature:
       electricity to the network."
      
       
-################################# feature ############################################
-solutions:
+################################# service ############################################
+service:
   enable : true
   subtitle : "Project Solutions"
-  title : "GPM 1, GPM 2 & GPM 4"
-  image_webp : "images/about/image3.jpeg"
-  image : "images/about/image3.jpeg"
-  content : ""
-  feature_item:
-    # feature item loop
-    - name : "Project GreenPower Morocco 1 – Operational"
-      icon : "fas fa-check" # font-awesome 5 : https://fontawesome.com/icons/
+  title : "Service We Provide"
+  service_item:
+    # service item loop
+    - name : "GreenPower Morocco 1"
+      link : "service/gpm-1/"
+      logo : "images/service/logo-gpm-1.png"
+      image : "images/service/image3.jpeg"
       content : "GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac 
       photovoltaic park. The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah 
       prefecture.
       <br><br>      
       Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant 
-      contribution to Morocco's green energy infrastructure.
-      <br>
-      - Project: GreenPower Morocco 1 (Operational)<br>
-      - Location: Hjar Ennhal, Tangier-Asilah<br>
-      - Capacity: 30 MWac <br>
-      - Surface Area: 72 hectares <br>
-      - Annual Production: Approximately 67 GWh <br>
-      - Total Investment: 37 million USD<br>"
+      contribution to Morocco's green energy infrastructure."
       
-    # feature item loop
-    - name : "Projects Under Development: GPM 2 & GPM 4"
-      icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
+    # service item loop
+    - name : "GreenPower Morocco 2"
+      link : "service/gpm-2/"
+      logo : "images/service/logo-gpm-2.png"
+      image : "images/service/image6.jpeg"
+      content : "GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and 
+      GreenPower Morocco 4.
+      <br><br> 
+      Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity 
+      production from renewable sources and promotes the development of green energy projects in Morocco.
+      <br><br> 
+      GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
+      Morocco"
+      
+    # service item loop
+    - name : "GreenPower Morocco 4"
+      link : "service/gpm-4/"
+      logo : "images/service/logo-gpm-4.png"
+      image : "images/service/image7.jpg"
       content : "GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and 
       GreenPower Morocco 4.
       <br><br> 
@@ -185,12 +193,6 @@ solutions:
       GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
       Morocco"
 
-################################# service ############################################
-service:
-  enable : true
-  section: "service"
-  show_item : 3
-  # service item comes from "content/*/service" folder
 
 ################################# team ##############################################
 team:
@@ -201,9 +203,9 @@ team:
 
 ################################# project ############################################
 project:
-  enable : false
+  enable : true
   section: "project"
-  show_item : 4
+  show_item : 3
   button:
     enable : true
     label : "more projects"
