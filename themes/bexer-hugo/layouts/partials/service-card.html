@@ -1,19 +1,12 @@
-<div class="card border-0 rounded-3 box-shadow position-relative rounded-05">
-  <div class="card-body">
-    <div class="d-flex flex-column flex-md-row align-items-center">
-      <div class="mb-3 mb-md-0 me-md-3 px-md-3 text-center">
-        {{ $Image := or (fileExists (add `static/` (string (.Params.Image_webp)))) (fileExists (add `static/` (string (.Params.Image)))) }}
-        {{ if $Image }}
-        <img loading="lazy" class="rounded-3" src="{{ .Params.Image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.Image | absURL }}'" alt="{{ .Title }}" style="width: 190px; height: 100px; object-fit: cover;">
-        {{ else if .Params.Icon }}
-        <div class="card-icon d-flex align-items-center justify-content-center rounded-3 mx-auto" style="width: 80px; height: 80px; background-color: #f8f9fa;"><i class="{{.Params.Icon}} fa-2x text-primary"></i></div>
-        {{ end }}
-      </div>
-      <div class="text-md-start flex-grow-1">
-        <h4 class="card-title mb-2"><a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a></h4>
-        <p class="card-text mb-2">{{ .Content }}</p>
-<!--        <a href="{{ .Permalink }}" class="btn btn-secondary btn-arrow btn-sm" aria-label="{{ .Title }}">{{ i18n "read_more" }}</a>-->
-      </div>
-    </div>
+<div class="card border-0 rounded-0 box-shadow position-relative">
+  {{ $Image := or (fileExists (add `static/` (string (.Params.Image_webp)))) (fileExists (add `static/` (string (.Params.Image)))) }}
+  {{ if $Image }}
+  <img loading="lazy" class="card-img-top rounded-0" src="{{ .Params.Image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.Image | absURL }}'" alt="{{ .Title }}">
+  {{ end }}
+  {{ with .Params.Icon}}<div class="card-icon position-absolute" style="top: 0; left: 0; z-index: 10;"><i class="{{. }}"></i></div>{{ end }}
+  <div class="card-body position-relative">
+    <h4 class="card-title"><a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    <p class="card-text">{{ .Summary }}</p>
+    <a href="{{ .Permalink }}" class="btn btn-secondary btn-arrow" aria-label="{{ .Title }}">{{ i18n "read_more" }}</a>
   </div>
 </div>
