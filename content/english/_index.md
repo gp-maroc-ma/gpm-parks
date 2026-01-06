@@ -1,5 +1,4 @@
 ---
-
 ########################### hero slider ############################
 hero_slider:
   enable : true
@@ -149,7 +148,7 @@ feature:
       
 ################################# service ############################################
 service:
-  enable : true
+  enable : false
   subtitle : "Project Solutions"
   title : "Service We Provide"
   service_item:
