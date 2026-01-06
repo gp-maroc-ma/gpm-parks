@@ -1,5 +1,4 @@
 ---
-
 ########################### hero slider ############################
 hero_slider:
   enable : true
@@ -59,11 +58,6 @@ banner_feature:
     - name : "Solar Tracking Technology"
       icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Advanced horizontal-axis solar trackers for full day productivity."
-      
-    # banner feature item loop
-    - name : "Grid Integration Excellence"
-      icon : "fas fa-plug" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Seamless integration into the national electrical grid for reliable power supply."
       
     # banner feature item loop
     - name : "Environmental Impact Reduction"
@@ -149,7 +143,7 @@ feature:
       
 ################################# service ############################################
 service:
-  enable : true
+  enable : false
   subtitle : "Project Solutions"
   title : "Service We Provide"
   service_item:

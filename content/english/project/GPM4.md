@@ -7,8 +7,8 @@ description: "this is meta description"
 bg_image_webp: "images/backgrounds/3_DSC0110.jpg"
 bg_image: "images/backgrounds/3_DSC0110.jpg"
 # project image
-image_webp: "images/project/image7.jpg"
-image: "images/project/image7.jpg"
+image_webp: "images/project/GPM-4-map.jpeg"
+image: "images/project/GPM-4-map.jpeg"
 # project category
 category: "Investment"
 # project status

@@ -1,5 +1,4 @@
 ---
-
 ########################### hero slider ############################
 hero_slider:
   enable : true
@@ -161,7 +160,7 @@ feature:
 
 ################################# service ############################################
 service:
-  enable : true
+  enable : false
   section: "service"
   show_item : 3
   # service item comes from "content/*/service" folder
