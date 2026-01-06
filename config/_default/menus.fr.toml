@@ -11,23 +11,23 @@ name = "About"
 url = "#about"
 weight = 2
 
-[[main]]
-name = "Products"
-url = "#products"
-weight = 3
-hasChildren = true
-
-[[main]]
-parent = "Products"
-name = "Manufacturing & Technology"
-url = "#manufacturing"
-weight = 4
-
-[[main]]
-parent = "Products"
-name = "Project Solutions"
-url = "#solutions"
-weight = 5
+#[[main]]
+#name = "Products"
+#url = "#products"
+#weight = 3
+#hasChildren = true
+#
+#[[main]]
+#parent = "Products"
+#name = "Manufacturing & Technology"
+#url = "#manufacturing"
+#weight = 4
+#
+#[[main]]
+#parent = "Products"
+#name = "Project Solutions"
+#url = "#solutions"
+#weight = 5
 
 [[main]]
 name = "Contact"
