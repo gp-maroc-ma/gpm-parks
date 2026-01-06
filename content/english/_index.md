@@ -60,11 +60,6 @@ banner_feature:
       content : "Advanced horizontal-axis solar trackers for full day productivity."
       
     # banner feature item loop
-    - name : "Grid Integration Excellence"
-      icon : "fas fa-plug" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Seamless integration into the national electrical grid for reliable power supply."
-      
-    # banner feature item loop
     - name : "Environmental Impact Reduction"
       icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Zero-emission electricity generation avoids reducing dependence on fossil fuels."
