@@ -20,7 +20,7 @@ hero_slider:
     # slider item
     - subtitle : "GPM Parks"
       title : "UTILITY-SCALE SOLAR GENERATION"
-      content : "Utility-scale solar plants are designed to operate for 25-30 years with minimal degradation."
+      content : "Utility-scale solar plants are designed to operate for 25-30 years <br>with minimal degradation."
       bg_image_webp : "images/slider/09.png"
       bg_image : "images/slider/09.png"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
@@ -87,7 +87,7 @@ about:
   image : "images/about/image3.jpeg"
   button:
     enable : true;
-    label : "more service"
+    label : "more services"
     link : "#contacts"
 
 ################################## funfacts ###############################
