@@ -9,9 +9,9 @@ top_header = false
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "Angle AV Oujda Et TanTan Res, Perla Oficinas 12 Etage Bureau N 60 Tangier"
-mobile = "+212 539 945 952"
-email = "info@gp-maroc.ma"
+address = "183 AVENUE PRINCE HERITIER CENTRE NREA LOCAL N 13 RDC, Tanger"
+mobile = "0539 94 59 52"
+email = "khaoula.zayoun@gp-maroc.ma"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
