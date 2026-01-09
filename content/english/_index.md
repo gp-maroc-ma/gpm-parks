@@ -120,8 +120,8 @@ feature:
   enable : true
   subtitle : "Manufacturing & Technology"
   title : "Solar Park Technology"
-  image_webp : "images/about/image3.jpeg"
-  image : "images/about/image3.jpeg"
+  image_webp : "images/about/GPM-1-2-map.jpeg"
+  image : "images/about/GPM-1-2-map.jpeg"
   content : ""
   feature_item:
     # feature item loop
