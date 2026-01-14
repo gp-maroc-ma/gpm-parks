@@ -5,7 +5,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "GPM Parks"
-      title : "Sustainable Industrial Hubs"
+      title : "Sustainable <br>Industrial Hubs"
       content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
       and strategic growth."
       bg_image_webp : "images/slider/image44.jpeg"
@@ -19,7 +19,7 @@ hero_slider:
         
     # slider item
     - subtitle : "GPM Parks"
-      title : "UTILITY-SCALE SOLAR GENERATION"
+      title : "Utility-Scale <br>Solar GenerationN"
       content : "Utility-scale solar plants are designed to operate for 25-30 years <br>with minimal degradation."
       bg_image_webp : "images/slider/09.png"
       bg_image : "images/slider/09.png"
@@ -32,7 +32,7 @@ hero_slider:
         
     # slider item
     - subtitle : "GPM Parks"
-      title : "Maximum power with every panel"
+      title : "Maximum power <br>with every panel"
       content : "Focusing on projects that are technically robust, environmentally responsible, and economically viable 
       over the long term."
       bg_image_webp : "images/slider/image5.jpg"
