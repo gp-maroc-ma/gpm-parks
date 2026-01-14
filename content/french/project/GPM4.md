@@ -12,7 +12,7 @@ image: "images/project/GPM-4-map.jpeg"
 # project category
 category: "Investment"
 # project status
-status : "In development"
+status : "En développement"
 ---
 
 {{< image src="/images/project/logo-gpm-4.png" srcAlt="The GPM 4 logo" >}}

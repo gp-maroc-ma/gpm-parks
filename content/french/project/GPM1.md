@@ -12,7 +12,7 @@ image: "images/project/image3.jpeg"
 # project category
 category: "Utility-scale solar power generation"
 # project status
-status : "In Operation"
+status : "En opération"
 ---
 
 {{< image src="/images/project/logo-gpm-1.png" srcAlt="The GPM 1 logo" >}}
