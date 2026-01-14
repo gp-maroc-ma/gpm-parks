@@ -2,37 +2,19 @@
 
 # main menu
 [[main]]
-name = "GPM Holding"
-url = "https://gp-maroc.ma/"
-weight = 8
-
-[[main]]
 name = "About"
 url = "#about"
-weight = 2
-
-#[[main]]
-#name = "Products"
-#url = "#products"
-#weight = 3
-#hasChildren = true
-#
-#[[main]]
-#parent = "Products"
-#name = "Manufacturing & Technology"
-#url = "#manufacturing"
-#weight = 4
-#
-#[[main]]
-#parent = "Products"
-#name = "Project Solutions"
-#url = "#solutions"
-#weight = 5
+weight = 1
 
 [[main]]
 name = "Contact"
 url = "#contacts"
-weight = 7
+weight = 2
+
+[[main]]
+name = "GPM Holding"
+url = "https://gp-maroc.ma/"
+weight = 3
 
 # footer menu
 [[footer_menu]]
@@ -45,8 +27,3 @@ weight = 1
 name = "Terms of Service"
 url = "terms/"
 weight = 1
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 2

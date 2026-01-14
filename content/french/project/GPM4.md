@@ -1,27 +1,24 @@
 ---
 title: "GreenPower Morocco 4"
+date: 2015-02-07T10:47:55+06:00
 # meta description
-description: "this is meta description for service page."
+description: "GPM-4 is solar project currently in advanced stages of development"
 # page title background image
 bg_image_webp: "images/backgrounds/3_DSC0110.jpg"
 bg_image: "images/backgrounds/3_DSC0110.jpg"
-# service image
-image_webp: "images/service/image7.jpg"
-image: "images/service/image7.jpg"
-image_width: "200px"
-logo: "images/service/logo-gpm-4.png"
-logo_width: "200px"
-# service icon
-#icon: "fas fa-briefcase" #font-awesome 5 : https://fontawesome.com/icons/
+# project image
+image_webp: "images/project/GPM-4-map.jpeg"
+image: "images/project/GPM-4-map.jpeg"
+# project category
+category: "Investment"
+# project status
+status : "In development"
 ---
+
+{{< image src="/images/project/logo-gpm-4.png" srcAlt="The GPM 4 logo" >}}
 
 GPM Holding is currently developing two additional photovoltaic solar parks:
 **GreenPower Morocco 2 and GreenPower Morocco 4.**
 
 Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity production from
 renewable sources and promotes the development of green energy projects in Morocco.
-
-GPM Holding is currently developing two additional photovoltaic solar parks:
-**GreenPower Morocco 2 and GreenPower Morocco**
-
-{{< image src="/images/service/image5.jpg" srcAlt="" >}}
