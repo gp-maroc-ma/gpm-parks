@@ -4,6 +4,7 @@
 {{ if .enable }}
 {{ "<!-- slider -->" | safeHTML }}
 <section>
+  <h1 class="d-none">{{ site.Title }}</h1>
   <div class="hero-slider">
     {{ range .slider_item }}
     {{ "<!-- slider item -->" | safeHTML }}
@@ -17,10 +18,12 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-lg-7" data-duration-in=".3" data-animation-in="{{ .animation }}" data-delay-in=".1">
-            <h4 class="mb-0 letter-spacing text-white">{{ .subtitle | markdownify }}</h4>
-            <h1 class="mb-4 text-white">{{ .title | markdownify }}</h1>
-            <p class="mb-5 slider-text text-white">{{ .content | markdownify }}</p>
+          <div class="col-lg-10" data-duration-in=".3" data-animation-in="{{ .animation }}" data-delay-in=".1">
+            <h4 class="mb-4 letter-spacing text-white">{{ .subtitle | markdownify }}</h4>
+            <div class="slider-title-height">
+              <p class="slider-h1 text-white">{{ .title | markdownify }}</p>
+            </div>
+            <p class="col-lg-8 col-10 slider-text text-white mb-4 mt-4 p-0">{{ .content | markdownify }}</p>
             {{ if .button.enable }}
             <a href="{{ .button.link }}" class="btn btn-primary-outline" data-duration-in=".3"
               data-animation-in="{{ .button.animation }}" data-delay-in=".4">{{ .button.label }}</a>
