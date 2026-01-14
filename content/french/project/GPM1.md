@@ -4,15 +4,15 @@ date: 2015-02-07T10:47:55+06:00
 # meta description
 description: "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and high-performance energy production"
 # page title background image
-bg_image_webp: "images/backgrounds/3_DSC0110.jpg"
-bg_image: "images/backgrounds/3_DSC0110.jpg"
+bg_image_webp: "images/backgrounds/project-page-title.jpg"
+bg_image: "images/backgrounds/project-page-title.jpg"
 # project image
 image_webp: "images/project/image3.jpeg"
 image: "images/project/image3.jpeg"
 # project category
 category: "Utility-scale solar power generation"
 # project status
-status : "In Operation"
+status : "En opération"
 ---
 
 {{< image src="/images/project/logo-gpm-1.png" srcAlt="The GPM 1 logo" >}}

@@ -30,7 +30,7 @@ html {
 
 /* Modern approach using scroll-margin-top */
 section[id] {
-  scroll-margin-top: 75px;
+  //scroll-margin-top: 75px;
 }
 
 .partner-logo-container {
@@ -104,4 +104,11 @@ section[id] {
 
 .rounded-05 {
   border-radius: 0.5rem;
+}
+
+.container-project {
+
+  @media(min-width: 1200px){
+    max-width: 1000px;
+  }
 }
