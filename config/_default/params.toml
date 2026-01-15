@@ -15,8 +15,7 @@ email = "khaoula.zayoun@gp-maroc.ma"
 # contact form action
 contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeGwhzOaX9eKvI-Ij92LF9ZBzf_h8jOg4ALLyyIUYOJNYtzxg/formResponse" # contact form works with https://formspree.io
 
-# Google Analitycs
-google_analitycs_id = "" # your id
+# Google Tag Manager
 gtm = "" # GTM-XXXXXXXX
 cookie_consent = false
 
