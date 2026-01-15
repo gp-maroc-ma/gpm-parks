@@ -17,6 +17,9 @@ contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeGwhzOaX9eK
 
 # Google Tag Manager
 gtm = "" # GTM-XXXXXXXX
+
+# Global date parameters
+year = 2026
 cookie_consent = false
 
 # page sidebar quick contact form

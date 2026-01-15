@@ -8,7 +8,7 @@ frontend:
         - tar -xf hugo.tar.gz
     build:
       commands:
-        - ./hugo --gc --minify --baseURL ${BASE_URL}
+        - ./hugo --gc --minify --baseURL ${BASE_URL} --params gtm=${GTM} --params year=${YEAR} --params cookie_consent=${COOKIE_CONSENT}
   artifacts:
     baseDirectory: public
     files:
