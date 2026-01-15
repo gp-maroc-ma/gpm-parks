@@ -49,36 +49,35 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Utility-Scale Solar Plants"
+    - name : "Centrales Solaires à Grande Échelle"
       icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Large-scale photovoltaic power plants with minimal degradation."
+      content : "Centrales photovoltaïques de grande envergure avec une dégradation minimale."
 
     # banner feature item loop
-    - name : "Solar Tracking Technology"
+    - name : "Technologie de Suivi Solaire"
       icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Advanced horizontal-axis solar trackers for full day productivity."
+      content : "Suiveurs solaires avancés à axe horizontal pour une productivité journalière optimale."
 
     # banner feature item loop
-    - name : "Environmental Impact Reduction"
+    - name : "Réduction de l'Impact Environnemental"
       icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Zero-emission electricity generation avoids reducing dependence on fossil fuels."
+      content : "La production d'électricité zéro émission réduit la dépendance aux énergies fossiles."
 
 
 ################################## about ####################################
 about:
   enable : true
-  subtitle : "About Us"
-  title : "What GPM Parks Does"
+  subtitle : "À propos de nous"
+  title : "Ce que fait GPM Parks"
 
-  content : "GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants 
-  convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
+  content : "GPM Parks développe, construit, détient et exploite des centrales solaires photovoltaïques à grande échelle. Ces centrales 
+  convertissent la lumière du soleil en électricité qui est livrée soit au réseau national, soit directement aux consommateurs industriels.
   <br><br>
-  Utility-scale solar plants consist of thousands of photovoltaic panels installed on large tracts of land, supported 
-  by electrical infrastructure such as inverters, transformers, and substations. These systems are designed to operate 
-  for 25-30 years with minimal degradation.
+  Les centrales solaires de grande envergure se composent de milliers de panneaux photovoltaïques installés sur de grandes étendues de 
+  terrain, soutenus par une infrastructure électrique telle que des onduleurs, des transformateurs et des sous-stations. Ces systèmes 
+  sont conçus pour fonctionner pendant 25 à 30 ans avec une dégradation minimale.
   <br><br>
-  GPM Parks focuses on projects that are technically robust, environmentally responsible, and economically viable over 
-  the long term."
+  GPM Parks se concentre sur des projets techniquement robustes, écologiquement responsables et économiquement viables à long terme."
 
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
@@ -86,7 +85,7 @@ about:
   image : "images/about/image3.jpeg"
   button:
     enable : true;
-    label : "more services"
+    label : "plus de services"
     link : "#contacts"
 
 ################################## funfacts ###############################
