@@ -18,6 +18,9 @@ contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeGwhzOaX9eK
 # Google Analitycs
 google_analitycs_id = "" # your id
 gtm = "" # GTM-XXXXXXXX
+
+# Global date parameters
+year = 2026
 cookie_consent = false
 
 # page sidebar quick contact form

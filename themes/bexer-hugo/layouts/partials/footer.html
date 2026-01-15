@@ -69,7 +69,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-          <p class="mb-0 text-white">{{ site.Params.copyright | markdownify }}</p>
+          <p class="mb-0 text-white">{{ replace site.Params.copyright "%s-year" (string site.Params.year) }}</p>
         </div>
         <div class="col-md-6 text-center text-md-right">
           <ul class="list-inline">
