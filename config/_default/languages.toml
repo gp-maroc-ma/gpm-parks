@@ -8,7 +8,7 @@ weight = 1
 [en.params]
 baseURL = "/"
 home = "Home"
-keywords = ["Solar Energy", "Renewable Energy", "Sustainable Industrial Hubs", "Utility-Scale Solar", "GreenPower Morocco", "Photovoltaic Park", "Clean Energy", "Solar Innovation", "Morocco Green Energy", "Industrial Ecosystems"]
+keywords = ["GPM Parks","Solar Energy", "Renewable Energy", "Sustainable Industrial Hubs", "Utility-Scale Solar", "GreenPower Morocco", "Photovoltaic Park", "Clean Energy", "Solar Innovation", "Morocco Green Energy", "Industrial Ecosystems"]
 
 # footer content
 footer_content = "GPM Parks - Powering Tomorrow with Solar Innovation. <br>Each solar plant developed by GPM Parks contributes to reducing greenhouse gas emissions, lowering dependence on imported fossil fuels, stabilizing long-term electricity costs, and supporting Morocco’s renewable-energy objectives hrough technically robust, environmentally responsible, and economically viable solar solutions."
@@ -25,7 +25,7 @@ weight = 2
 [fr.params]
 baseURL = "/fr/"
 home = "Accueil"
-keywords = ["Énergie Solaire", "Énergie Renouvelable", "Hubs Industriels Durables", "Solaire à Grande Échelle", "GreenPower Maroc", "Parc Photovoltaïque", "Énergie Propre", "Innovation Solaire", "Énergie Verte Maroc", "Écosystèmes Industriels"]
+keywords = ["GPM Parks","Énergie Solaire", "Énergie Renouvelable", "Hubs Industriels Durables", "Solaire à Grande Échelle", "GreenPower Maroc", "Parc Photovoltaïque", "Énergie Propre", "Innovation Solaire", "Énergie Verte Maroc", "Écosystèmes Industriels"]
 
 # footer content
 footer_content = "GPM Parks - Powering Tomorrow with Solar Innovation. <br>Each solar plant developed by GPM Parks contributes to reducing greenhouse gas emissions, lowering dependence on imported fossil fuels, stabilizing long-term electricity costs, and supporting Morocco’s renewable-energy objectives hrough technically robust, environmentally responsible, and economically viable solar solutions."

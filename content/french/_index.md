@@ -13,7 +13,7 @@ hero_slider:
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
@@ -26,7 +26,7 @@ hero_slider:
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
@@ -39,7 +39,7 @@ hero_slider:
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
