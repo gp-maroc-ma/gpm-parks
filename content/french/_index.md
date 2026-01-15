@@ -13,7 +13,7 @@ hero_slider:
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
@@ -26,7 +26,7 @@ hero_slider:
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
@@ -39,7 +39,7 @@ hero_slider:
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
+        label : "plus de détails"
         link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
@@ -49,36 +49,35 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Utility-Scale Solar Plants"
+    - name : "Centrales Solaires à Grande Échelle"
       icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Large-scale photovoltaic power plants with minimal degradation."
+      content : "Centrales photovoltaïques de grande envergure avec une dégradation minimale."
 
     # banner feature item loop
-    - name : "Solar Tracking Technology"
+    - name : "Technologie de Suivi Solaire"
       icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Advanced horizontal-axis solar trackers for full day productivity."
+      content : "Suiveurs solaires avancés à axe horizontal pour une productivité journalière optimale."
 
     # banner feature item loop
-    - name : "Environmental Impact Reduction"
+    - name : "Réduction de l'Impact Environnemental"
       icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Zero-emission electricity generation avoids reducing dependence on fossil fuels."
+      content : "La production d'électricité zéro émission réduit la dépendance aux énergies fossiles."
 
 
 ################################## about ####################################
 about:
   enable : true
-  subtitle : "About Us"
-  title : "What GPM Parks Does"
+  subtitle : "À propos de nous"
+  title : "Ce que fait GPM Parks"
 
-  content : "GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants 
-  convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
+  content : "GPM Parks développe, construit, détient et exploite des centrales solaires photovoltaïques à grande échelle. Ces centrales 
+  convertissent la lumière du soleil en électricité qui est livrée soit au réseau national, soit directement aux consommateurs industriels.
   <br><br>
-  Utility-scale solar plants consist of thousands of photovoltaic panels installed on large tracts of land, supported 
-  by electrical infrastructure such as inverters, transformers, and substations. These systems are designed to operate 
-  for 25-30 years with minimal degradation.
+  Les centrales solaires de grande envergure se composent de milliers de panneaux photovoltaïques installés sur de grandes étendues de 
+  terrain, soutenus par une infrastructure électrique telle que des onduleurs, des transformateurs et des sous-stations. Ces systèmes 
+  sont conçus pour fonctionner pendant 25 à 30 ans avec une dégradation minimale.
   <br><br>
-  GPM Parks focuses on projects that are technically robust, environmentally responsible, and economically viable over 
-  the long term."
+  GPM Parks se concentre sur des projets techniquement robustes, écologiquement responsables et économiquement viables à long terme."
 
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
@@ -86,7 +85,7 @@ about:
   image : "images/about/image3.jpeg"
   button:
     enable : true;
-    label : "more services"
+    label : "plus de services"
     link : "#contacts"
 
 ################################## funfacts ###############################
@@ -94,22 +93,22 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "Ongoing projects"
+    - name : "Projets en cours"
       count : "3"
       icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
 
     # fanfacts item loop
-    - name : "Years Experience"
+    - name : "Années d'expérience"
       count : "10"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
 
     # fanfacts item loop
-    - name : "Annual Production (GWh)"
+    - name : "Production annuelle (GWh)"
       count : "67"
       icon : "fas fa-bolt" # font-awesome 5 : https://fontawesome.com/icons/
 
     # fanfacts item loop
-    - name : "Projects Area (ha)"
+    - name : "Surface des projets (ha)"
       count : "72"
       icon : "fas fa-map" # font-awesome 5 : https://fontawesome.com/icons/
 
@@ -117,27 +116,26 @@ funfacts :
 ################################# feature ############################################
 feature:
   enable : true
-  subtitle : "Manufacturing & Technology"
-  title : "Solar Park Technology"
+  subtitle : "Fabrication et Technologie"
+  title : "Technologie des Parcs Solaires"
   image_webp : "images/about/GPM-1-2-map.jpeg"
   image : "images/about/GPM-1-2-map.jpeg"
   content : ""
   feature_item:
     # feature item loop
-    - name : "State-of-the-Art Equipment for Clean Energy Production"
+    - name : "Équipements de pointe pour une production d'énergie propre"
       icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and 
-      high-performance energy production.
+      content : "Le parc solaire GPM 1 utilise des équipements de pointe conçus pour garantir une production d'énergie propre, fiable et 
+      performante.
       <br><br> 
-      - <b>Solar Tracking:</b> The panels are mounted on horizontal-axis solar trackers aligned in a North-South 
-      direction. This technology allows the panels to follow the sunlight from sunrise to sunset, maximizing energy 
-      production throughout the day. <br>
-      - <b>Energy Conversion:</b> Photovoltaic panels capture solar energy and convert it into electricity. This output 
-      is optimized by inverter systems that ensure a stable and efficient transformation of the current.<br>
-      - <b>Grid Integration:</b> The energy produced is transmitted via transformer stations and delivery substations, 
-      allowing for safe and seamless integration into the national electrical grid.
-      <br><br> This system offers fluid, secure operation compliant with industry best practices while supplying green 
-      electricity to the network."
+      - <b>Suivi Solaire :</b> Les panneaux sont montés sur des suiveurs solaires à axe horizontal alignés dans une direction Nord-Sud. 
+      Cette technologie permet aux panneaux de suivre la lumière du soleil du lever au coucher, maximisant la production d'énergie tout au long de la journée. <br>
+      - <b>Conversion d'Énergie :</b> Les panneaux photovoltaïques captent l'énergie solaire et la convertissent en électricité. Cette production 
+      est optimisée par des systèmes d'onduleurs qui assurent une transformation stable et efficace du courant.<br>
+      - <b>Intégration au Réseau :</b> L'énergie produite est transmise via des postes de transformation et des sous-stations de livraison, 
+      permettant une intégration sûre et fluide au réseau électrique national.
+      <br><br> Ce système offre un fonctionnement fluide et sécurisé, conforme aux meilleures pratiques de l'industrie, tout en fournissant de 
+      l'électricité verte au réseau."
 
 
 ################################# service ############################################
@@ -201,19 +199,19 @@ project:
   show_item : 3
   button:
     enable : true
-    label : "more projects"
+    label : "plus de projets"
     link : "project/"
   # project item comes from "content/*/project" folder
 
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Power Your Future with Clean Energy Solutions"
+  title : "Alimentez votre avenir avec des solutions d'énergie propre"
   bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
   button:
     enable : false
-    label : "get a quote"
+    label : "demander un devis"
     link : "#contacts"
 
 ################################# testimonial #########################################

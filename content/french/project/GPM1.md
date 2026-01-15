@@ -2,7 +2,7 @@
 title: "GreenPower Morocco 1 "
 date: 2015-02-07T10:47:55+06:00
 # meta description
-description: "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and high-performance energy production"
+description: "Le parc solaire GPM 1 utilise des équipements de pointe conçus pour garantir une production d'énergie propre, fiable et performante"
 # page title background image
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
@@ -10,41 +10,35 @@ bg_image: "images/backgrounds/project-page-title.jpg"
 image_webp: "images/project/image3.jpeg"
 image: "images/project/image3.jpeg"
 # project category
-category: "Utility-scale solar power generation"
+category: "Production d'énergie solaire à grande échelle"
 # project status
 status : "En opération"
 ---
 
-{{< image src="/images/project/logo-gpm-1.png" srcAlt="The GPM 1 logo" >}}
+{{< image src="/images/project/logo-gpm-1.png" srcAlt="Le logo GPM 1" >}}
 
-GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac photovoltaic park.
-The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah prefecture.
+GPM Holding, à travers sa filiale GreenPower Morocco 1 S.A., a développé avec succès un parc photovoltaïque de 30 MWac.
+L'installation est située à Douar Daidaat, dans la commune de Hjar Ennhal de la préfecture de Tanger-Asilah.
 
-Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant
-contribution to Morocco's green energy infrastructure.
+Développé dans le cadre de la loi 13-09 relative aux énergies renouvelables, le projet représente une contribution significative à l'infrastructure d'énergie verte du Maroc.
 
-- Project: GreenPower Morocco 1 (Operational)
-- Location: Hjar Ennhal, Tangier-Asilah
-- Capacity: 30 MWac
-- Surface Area: 72 hectares
-- Annual Production: Approximately 67 GWh
-- Total Investment: 37 million USD
+- Projet : GreenPower Morocco 1 (Opérationnel)
+- Lieu : Hjar Ennhal, Tanger-Asilah
+- Capacité : 30 MWac
+- Surface : 72 hectares
+- Production annuelle : Environ 67 GWh
+- Investissement total : 37 millions USD
 
-### Technology & Infrastructure
+### Technologie & Infrastructure
 
-The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and high-performance
-energy production.
+Le parc solaire GPM 1 utilise des équipements de pointe conçus pour garantir une production d'énergie propre, fiable et performante.
 
-- **Solar Tracking:** The panels are mounted on horizontal-axis solar trackers aligned in a North-South direction. This
-  technology allows the panels to follow the sunlight from sunrise to sunset, maximizing energy production throughout
-  the day.
-- **Energy Conversion:** Photovoltaic panels capture solar energy and convert it into electricity. This output is
-  optimized by inverter systems that ensure a stable and efficient transformation of the current.
-- **Grid Integration:** The energy produced is transmitted via transformer stations and delivery substations, allowing
-  for safe and seamless integration into the national electrical grid.
+- **Suivi Solaire :** Les panneaux sont montés sur des suiveurs solaires à axe horizontal alignés dans une direction Nord-Sud. Cette technologie permet aux panneaux de suivre la lumière du soleil du lever au coucher, maximisant la production d'énergie tout au long de la journée.
+- **Conversion d'Énergie :** Les panneaux photovoltaïques captent l'énergie solaire et la convertissent en électricité. Cette production est optimisée par des systèmes d'onduleurs qui assurent une transformation stable et efficace du courant.
+- **Intégration au Réseau :** L'énergie produite est transmise via des postes de transformation et des sous-stations de livraison, permettant une intégration sûre et fluide au réseau électrique national.
 
-This system offers fluid, secure operation compliant with industry best practices while supplying green electricity to the network.
+Ce système offre un fonctionnement fluide et sécurisé, conforme aux meilleures pratiques de l'industrie, tout en fournissant de l'électricité verte au réseau.
 
-{{< image src="/images/project/image4.jpeg" srcAlt="The GPM 1 solar park photo" >}}
+{{< image src="/images/project/image4.jpeg" srcAlt="Photo du parc solaire GPM 1" >}}
 
-{{< image src="/images/project/image5.jpg" srcAlt="The GPM 1 solar park photo" >}}
+{{< image src="/images/project/image5.jpg" srcAlt="Photo du parc solaire GPM 1" >}}

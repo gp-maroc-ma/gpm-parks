@@ -2,34 +2,34 @@
 title: "Our Terms And Conditions"
 draft: false
 # description
-description: "The GPM Holding group maintains strict ownership over all original content published on these sites."
+description: "GPM Parks maintains strict ownership over all original content published on this site."
 ---
 
 ### **1. General Conditions**
 
-By accessing the website **gp-maroc.ma** or any of its subsidiary landing pages, you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing these sites.
+By accessing the website **gpm-parks.ma**, operated by **GPM Parks** (an entity of the **GPM Holding** group, **gp-maroc.ma**), you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
 
 ### **2. Intellectual Property Rights**
 
-The GPM Holding group maintains strict ownership over all original content published on these sites.
+**GPM Parks** maintains strict ownership over all original content published on this site.
 
-* **Proprietary Media:** All high-resolution images, drone footage, production line videos, and technical documents are protected by international copyright laws.
-* **Trademarks:** The logos for GPM Holding, Solaris, GPM Parks, and GPM Mobility are the exclusive property of the group. Unauthorized use or reproduction is strictly prohibited.
-* **Technical Documents:** Datasheets, catalogs, and technical descriptions shared on the sites remain the intellectual property of the respective entity (e.g., Solaris for panel specifications).
+* **Proprietary Media:** All high-resolution images, drone footage, and technical documents regarding our solar parks are protected by international copyright laws.
+* **Trademarks:** The logos for **GPM Parks**, as well as **GPM Holding**, are the exclusive property of the group. Unauthorized use or reproduction is strictly prohibited.
+* **Technical Documents:** Technical descriptions and project details shared on the site remain the intellectual property of GPM Parks.
 
 ### **3. Use of External Links**
 
-The GPM Holding website serves as a central hub and contains links to external landing pages with their own standalone domains (e.g., `solaristangier.ma`, `gpm-parks.ma`).
+The **GPM Parks** website may contain links to the **GPM Holding** central hub (**gp-maroc.ma**) or other entity sites.
 
-* **Redirection:** Once you leave the GPM Holding site to visit an entity-specific domain, you are subject to the specific terms and policies of that landing page.
-* **Third-Party Content:** GPM Holding is not responsible for the availability or accuracy of content hosted on external sites linked from our pages.
+* **Redirection:** Once you leave the GPM Parks site to visit another domain, you are subject to the specific terms and policies of that page.
+* **Third-Party Content:** GPM Parks is not responsible for the availability or accuracy of content hosted on external sites linked from our pages.
 
 ### **4. Accuracy of Information**
 
-While we strive for precision, the content on these sites—particularly technical specifications and project solution descriptions—is provided for general informational purposes.
+While we strive for precision, the content on this site—particularly project specifications and solution descriptions—is provided for general informational purposes.
 
-* **Updates:** Technical details and product descriptions are subject to change without notice as new technology becomes available.
-* **Disclaimer:** GPM Holding does not warrant that the materials on its websites are accurate, complete, or current.
+* **Updates:** Technical details and project descriptions are subject to change without notice as developments occur.
+* **Disclaimer:** GPM Parks does not warrant that the materials on its website are accurate, complete, or current.
 
 ### **5. Prohibited Conduct**
 
