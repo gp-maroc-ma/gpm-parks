@@ -2,20 +2,20 @@
 title: "GreenPower Morocco 1 "
 date: 2015-02-07T10:47:55+06:00
 # meta description
-description: "this is meta description"
+description: "The GPM 1 solar park utilizes state-of-the-art equipment designed to guarantee clean, reliable, and high-performance energy production"
 # page title background image
-bg_image_webp: "images/backgrounds/3_DSC0110.jpg"
-bg_image: "images/backgrounds/3_DSC0110.jpg"
+bg_image_webp: "images/backgrounds/project-page-title.jpg"
+bg_image: "images/backgrounds/project-page-title.jpg"
 # project image
 image_webp: "images/project/image3.jpeg"
 image: "images/project/image3.jpeg"
 # project category
 category: "Utility-scale solar power generation"
 # project status
-status : "In Process"
+status : "In Operation"
 ---
 
-{{< image src="/images/project/logo-gpm-1.png" srcAlt="" >}}
+{{< image src="/images/project/logo-gpm-1.png" srcAlt="The GPM 1 logo" >}}
 
 GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac photovoltaic park.
 The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah prefecture.
@@ -45,6 +45,6 @@ energy production.
 
 This system offers fluid, secure operation compliant with industry best practices while supplying green electricity to the network.
 
-{{< image src="/images/project/image4.jpeg" srcAlt="" >}}
+{{< image src="/images/project/image4.jpeg" srcAlt="The GPM 1 solar park photo" >}}
 
-{{< image src="/images/project/image5.jpg" srcAlt="" >}}
+{{< image src="/images/project/image5.jpg" srcAlt="The GPM 1 solar park photo" >}}

@@ -14,8 +14,21 @@
   }
 }
 
+.slider-title-height {
+  min-height: 168px;
+
+  @media(max-width: 767px){
+    min-height: 114px;
+  }
+}
+
 .slider-text {
   color: $text-color-dark;
+  min-height: 96px;
+
+  @media(max-width: 767px){
+    min-height: 120px;
+  }
 }
 
 .about-img-rounded-shadow {
@@ -30,7 +43,7 @@ html {
 
 /* Modern approach using scroll-margin-top */
 section[id] {
-  scroll-margin-top: 75px;
+  //scroll-margin-top: 75px;
 }
 
 .partner-logo-container {
@@ -104,4 +117,49 @@ section[id] {
 
 .rounded-05 {
   border-radius: 0.5rem;
+}
+
+.container-project {
+
+  @media(min-width: 1200px){
+    max-width: 1000px;
+  }
+}
+
+/* Form Messages */
+#form-messages {
+  margin-bottom: 0;
+  margin-left: 30px;
+  padding: 15px;
+  border-radius: 5px;
+  font-weight: 500;
+
+  /* Mobile margin-top */
+  @media (max-width: 767px) {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+}
+
+#form-messages.alert-success {
+  background-color: #d4edda;
+  border: 1px solid #c3e6cb;
+  color: #155724;
+}
+
+#form-messages.alert-danger {
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  color: #721c24;
+}
+
+/* Button loading state */
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Form animation for smooth appearance */
+#form-messages {
+  transition: all 0.3s ease-in-out;
 }

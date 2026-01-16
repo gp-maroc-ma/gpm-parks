@@ -5,73 +5,43 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "GPM Parks"
-      title : "GPM Parks : Hubs Industriels Durables"
+      title : "Hubs Industriels <br>Durables"
       content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés aux 
       énergies renouvelables et à la croissance stratégique."
-      bg_image : "images/slider/image5.jpg"
+      bg_image_webp : "images/slider/image44.jpeg"
+      bg_image : "images/slider/image44.jpeg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "http://gpm-parks.ma"
+        label : "plus de détails"
+        link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
+
     # slider item
-    - subtitle : "Solaris"
-      title : "Solaris : Fabrication Photovoltaïque Avancée"
-      content : "Production de panneaux solaires haute performance, portée par une technologie de pointe et une 
-      ingénierie de précision."
-      bg_image_webp : "images/slider/drone_pictures_23.JPG"
-      bg_image : "images/slider/drone_pictures_23.JPG"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "http://solaristangier.ma"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "GPM Services"
-      title : "GPM Services : Excellence Opérationnelle"
-      content : "Solutions complètes de maintenance et de nettoyage spécialisé pour garantir l'efficacité maximale des 
-      installations solaires."
-      bg_image_webp : "images/slider/bg_development_-1.jpg"
-      bg_image : "images/slider/bg_development_-1.jpg"
+    - subtitle : "GPM Parks"
+      title : "Production d'énergie <br>solaire à grande échelle"
+      content : "Les centrales solaires à grande échelle sont conçues pour fonctionner pendant 25 à 30 ans avec une dégradation minimale."
+      bg_image_webp : "images/slider/09.png"
+      bg_image : "images/slider/09.png"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "http://gp-services.ma"
+        label : "plus de détails"
+        link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
+
     # slider item
-    - subtitle : "GPM Polysilicon"
-      title : "GPM Polysilicon : Le Socle de la Valeur Solaire"
-      content : "Sécuriser la production de polysilicium de haute pureté pour alimenter la transition mondiale vers 
-      l'énergie renouvelable."
-      bg_image_webp : "images/slider/polysilicon_solar_cell.jpg"
-      bg_image : "images/slider/polysilicon_solar_cell.jpg"
+    - subtitle : "GPM Parks"
+      title : "Puissance maximale <br>avec chaque panneau"
+      content : "Nous privilégions les projets techniquement solides, respectueux de l'environnement et économiquement viables à long terme."
+      bg_image_webp : "images/slider/image5.jpg"
+      bg_image : "images/slider/image5.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "http://sondiale.ma"
+        label : "plus de détails"
+        link : "fr/project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "GPM Mobility"
-      title : "GPM Mobility : Propulser l'Avenir Électrique"
-      content : "Construction de l'infrastructure essentielle pour la recharge des véhicules électriques et un 
-      écosystème de transport durable."
-      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.jpg"
-      bg_image : "images/slider/electric-cars-parking-lot-charging.jpg"
-      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "http://gp-mobilite.ma"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
 
 ################################## banner feature ############################
 banner_feature:
@@ -79,39 +49,43 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Business Solution"
-      icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
-      
+    - name : "Centrales Solaires à Grande Échelle"
+      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Centrales photovoltaïques de grande envergure avec une dégradation minimale."
+
     # banner feature item loop
-    - name : "Market Research"
-      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
-      
+    - name : "Technologie de Suivi Solaire"
+      icon : "fas fa-compass" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Suiveurs solaires avancés à axe horizontal pour une productivité journalière optimale."
+
     # banner feature item loop
-    - name : "Business Strategy"
-      icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
-      
-    # banner feature item loop
-    - name : "Speed Optimization"
-      icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+    - name : "Réduction de l'Impact Environnemental"
+      icon : "fas fa-leaf" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "La production d'électricité zéro émission réduit la dépendance aux énergies fossiles."
 
 
 ################################## about ####################################
 about:
   enable : true
-  subtitle : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
+  subtitle : "À propos de nous"
+  title : "Ce que fait GPM Parks"
+
+  content : "GPM Parks développe, construit, détient et exploite des centrales solaires photovoltaïques à grande échelle. Ces centrales 
+  convertissent la lumière du soleil en électricité qui est livrée soit au réseau national, soit directement aux consommateurs industriels.
+  <br><br>
+  Les centrales solaires de grande envergure se composent de milliers de panneaux photovoltaïques installés sur de grandes étendues de 
+  terrain, soutenus par une infrastructure électrique telle que des onduleurs, des transformateurs et des sous-stations. Ces systèmes 
+  sont conçus pour fonctionner pendant 25 à 30 ans avec une dégradation minimale.
+  <br><br>
+  GPM Parks se concentre sur des projets techniquement robustes, écologiquement responsables et économiquement viables à long terme."
+
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.webp"
-  image : "images/about/about-us.png"
+  image_webp : "images/about/image3.jpeg"
+  image : "images/about/image3.jpeg"
   button:
     enable : true;
-    label : "more service"
+    label : "plus de services"
     link : "#contacts"
 
 ################################## funfacts ###############################
@@ -119,55 +93,101 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "project done"
-      count : "50"
-      icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
-      
+    - name : "Projets en cours"
+      count : "3"
+      icon : "fas fa-tasks" # font-awesome 5 : https://fontawesome.com/icons/
+
     # fanfacts item loop
-    - name : "Years Experience"
-      count : "25"
+    - name : "Années d'expérience"
+      count : "10"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      
+
     # fanfacts item loop
-    - name : "Awards Win"
-      count : "250"
-      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
-      
+    - name : "Production annuelle (GWh)"
+      count : "67"
+      icon : "fas fa-bolt" # font-awesome 5 : https://fontawesome.com/icons/
+
     # fanfacts item loop
-    - name : "Happy Coustomers"
-      count : "500"
-      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
+    - name : "Surface des projets (ha)"
+      count : "72"
+      icon : "fas fa-map" # font-awesome 5 : https://fontawesome.com/icons/
 
 
 ################################# feature ############################################
 feature:
   enable : true
-  subtitle : "Why Choose Us"
-  title : "Why They Choose Bexar"
-  image_webp : "images/feature/feature.webp"
-  image : "images/feature/feature.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
+  subtitle : "Fabrication et Technologie"
+  title : "Technologie des Parcs Solaires"
+  image_webp : "images/about/GPM-1-2-map.jpeg"
+  image : "images/about/GPM-1-2-map.jpeg"
+  content : ""
   feature_item:
     # feature item loop
-    - name : "Creative Design"
-      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
-      
-    # feature item loop
-    - name : "Pixel Perfect Coding"
-      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+    - name : "Équipements de pointe pour une production d'énergie propre"
+      icon : "fas fa-solar-panel" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Le parc solaire GPM 1 utilise des équipements de pointe conçus pour garantir une production d'énergie propre, fiable et 
+      performante.
+      <br><br> 
+      - <b>Suivi Solaire :</b> Les panneaux sont montés sur des suiveurs solaires à axe horizontal alignés dans une direction Nord-Sud. 
+      Cette technologie permet aux panneaux de suivre la lumière du soleil du lever au coucher, maximisant la production d'énergie tout au long de la journée. <br>
+      - <b>Conversion d'Énergie :</b> Les panneaux photovoltaïques captent l'énergie solaire et la convertissent en électricité. Cette production 
+      est optimisée par des systèmes d'onduleurs qui assurent une transformation stable et efficace du courant.<br>
+      - <b>Intégration au Réseau :</b> L'énergie produite est transmise via des postes de transformation et des sous-stations de livraison, 
+      permettant une intégration sûre et fluide au réseau électrique national.
+      <br><br> Ce système offre un fonctionnement fluide et sécurisé, conforme aux meilleures pratiques de l'industrie, tout en fournissant de 
+      l'électricité verte au réseau."
+
 
 ################################# service ############################################
 service:
   enable : false
-  section: "service"
-  show_item : 3
-  # service item comes from "content/*/service" folder
+  subtitle : "Project Solutions"
+  title : "Service We Provide"
+  service_item:
+    # service item loop
+    - name : "GreenPower Morocco 1"
+      link : "service/gpm-1/"
+      logo : "images/service/logo-gpm-1.png"
+      image : "images/service/image3.jpeg"
+      content : "GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac 
+      photovoltaic park. The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah 
+      prefecture.
+      <br><br>      
+      Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant 
+      contribution to Morocco's green energy infrastructure."
+
+    # service item loop
+    - name : "GreenPower Morocco 2"
+      link : "service/gpm-2/"
+      logo : "images/service/logo-gpm-2.png"
+      image : "images/service/image6.jpeg"
+      content : "GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and 
+      GreenPower Morocco 4.
+      <br><br> 
+      Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity 
+      production from renewable sources and promotes the development of green energy projects in Morocco.
+      <br><br> 
+      GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
+      Morocco"
+
+    # service item loop
+    - name : "GreenPower Morocco 4"
+      link : "service/gpm-4/"
+      logo : "images/service/logo-gpm-4.png"
+      image : "images/service/image7.jpg"
+      content : "GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and 
+      GreenPower Morocco 4.
+      <br><br> 
+      Like their predecessor, these projects fall under the framework of Law 13-09, which governs electricity 
+      production from renewable sources and promotes the development of green energy projects in Morocco.
+      <br><br> 
+      GPM Holding is currently developing two additional photovoltaic solar parks: GreenPower Morocco 2 and GreenPower 
+      Morocco"
+
 
 ################################# team ##############################################
 team:
-  enable : true
+  enable : false
   section: "team"
   show_item : 3
   # team member comes from "content/*/team" folder
@@ -176,12 +196,23 @@ team:
 project:
   enable : true
   section: "project"
-  show_item : 4
+  show_item : 3
   button:
     enable : true
-    label : "more projects"
+    label : "plus de projets"
     link : "project/"
   # project item comes from "content/*/project" folder
+
+################################# blog ################################################
+cta:
+  enable : true
+  title : "Alimentez votre avenir avec des solutions d'énergie propre"
+  bg_image_webp : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
+  bg_image : "images/backgrounds/AM_Ref_inst_02-600x600.jpg"
+  button:
+    enable : false
+    label : "demander un devis"
+    link : "#contacts"
 
 ################################# testimonial #########################################
 testimonial:
@@ -209,42 +240,30 @@ testimonial:
 
 ################################# partners #########################################
 partners:
-  enable : true
+  enable : false
   subtitle : "PARTNERS"
   title : "Our Strategic Partners"
   partners_item:
-    # partners item loop
-    - partner_logo : "images/partners/partner-1.jpg"
-      name : "Advanced Material Solutions"
-      description : "Description"
-      content : "Description"
-      
-    # partners item loop
-    - partner_logo : "images/partners/partner-2.png"
-      name : "The U.S. International Development Finance Corporation"
-      description : "Description"
-      content : "Description"
-      
+
+
     # partners item loop
     - partner_logo : "images/partners/partner-3.png"
       name : "The Moroccan Agency for Investment and Export Development"
-      description : "Description"
-      content : "Description"
-  
-################################# blog ################################################
-cta:
-  enable : true
-  title : "GPM Holding give the smart solution for your business"
-  bg_image_webp : "images/backgrounds/cta-lg.webp"
-  bg_image : "images/backgrounds/cta-lg.jpg"
-  button:
-    enable : true
-    label : "get a quote"
-    link : "contact/"
+      description : "[Visit site](https://amdie.gov.ma/)"
+
+    # partners item loop
+    - partner_logo : "images/partners/partner-2.png"
+      name : "The U.S. International Development Finance Corporation"
+      description : "[Visit site](https://www.dfc.gov/)"
+    # partners item loop
+    - partner_logo : "images/partners/partner-1.jpg"
+      name : "Advanced Material Solutions"
+      description : "[Visit site](https://silicongases.com/polysilicon)"
+
 
 ################################# blog ################################################
 blog:
-  enable : true
+  enable : false
   section : "blog"
   show_item : 3
   # blog post comes from "content/*/blog" folder
@@ -253,5 +272,80 @@ blog:
 contact:
   enable : true
   image : "images/globe.jpg"
-  
+
+  form_fields:
+  # form item
+  - id: "name"
+    label: "Nom"
+    type: input
+    input_type: text
+    placeholder: "Nom *"
+    name: "entry.1436542053"
+    maxlength: 255
+    required: true
+
+  # form item
+  - id:  "email"
+    label: "Email"
+    type: input
+    input_type: email
+    placeholder: "Email *"
+    name: "emailAddress"
+    pattern: '^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$'
+    maxlength: 255
+    required: true
+
+  # form item
+  - id:  "confirm_email"
+    label: "Confirmez votre email"
+    type: input
+    input_type: email
+    placeholder: "Confirmez votre email *"
+    name: "entry.1404406591"
+    pattern: '^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$'
+    maxlength: 255
+    required: false
+    hidden: true
+
+  # form item
+  - id:  "phone"
+    label: "Phone"
+    type: input
+    input_type: text
+    placeholder: "Phone"
+    name: "entry.1333006019"
+    maxlength: 15
+    required: false
+
+  # form item
+  - id:  "subject"
+    label: "Sujet du message"
+    type: input
+    input_type: text
+    placeholder: "Sujet du message"
+    name: "entry.2008139399"
+    maxlength: 255
+    required: false
+
+  # form item
+  - id:  "message"
+    label: "Votre message"
+    type: textarea
+    input_type: text
+    placeholder: "Votre message *"
+    name: "entry.1150758010"
+    maxlength: 400
+    required: true
+
+  # form item
+  - id : "language"
+    label: "Langue"
+    type: select
+    input_type: text
+    placeholder: "Langue"
+    name: "entry.740536652"
+    required: false
+    hidden: true
+    default: "FR"
+
 ---

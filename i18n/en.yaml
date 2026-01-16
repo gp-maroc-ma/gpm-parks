@@ -13,6 +13,9 @@
 - id: contact_form
   translation: Contact Form
 
+- id: contact_form_send
+  translation: Thank you for message
+
 - id: send
   translation: send message
 
@@ -66,3 +69,18 @@
 
 - id: our_services
   translation: Our Services
+
+- id: get_a_quote
+  translation: Get a Quote
+
+- id: section_blog
+  translation: Blog
+
+- id: section_project
+  translation: Projects
+
+- id: section_service
+  translation: Services
+
+- id: section_team
+  translation: Team

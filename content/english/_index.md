@@ -5,7 +5,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "GPM Parks"
-      title : "Sustainable Industrial Hubs"
+      title : "Sustainable <br>Industrial Hubs"
       content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
       and strategic growth."
       bg_image_webp : "images/slider/image44.jpeg"
@@ -14,25 +14,25 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://gpm-parks.ma"
+        link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
     - subtitle : "GPM Parks"
-      title : "UTILITY-SCALE SOLAR GENERATION"
-      content : "Utility-scale solar plants are designed to operate for 25-30 years <br>with minimal degradation."
+      title : "Utility-Scale <br>Solar GenerationN"
+      content : "Utility-scale solar plants are designed to operate for 25-30 years with minimal degradation."
       bg_image_webp : "images/slider/09.png"
       bg_image : "images/slider/09.png"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "http://gp-services.ma"
+        link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
     - subtitle : "GPM Parks"
-      title : "Maximum power with every panel"
+      title : "Maximum power <br>with every panel"
       content : "Focusing on projects that are technically robust, environmentally responsible, and economically viable 
       over the long term."
       bg_image_webp : "images/slider/image5.jpg"
@@ -41,7 +41,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://sondiale.ma"
+        link : "project/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
@@ -275,5 +275,80 @@ blog:
 contact:
   enable : true
   image : "images/globe.jpg"
-  
+
+  form_fields:
+    # form item
+    - id: "name"
+      label: "Name"
+      type: input
+      input_type: text
+      placeholder: "Name *"
+      name: "entry.1436542053"
+      maxlength: 255
+      required: true
+
+    # form item
+    - id:  "email"
+      label: "Email"
+      type: input
+      input_type: email
+      placeholder: "Email *"
+      name: "emailAddress"
+      pattern: '^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$'
+      maxlength: 255
+      required: true
+
+    # form item
+    - id:  "confirm_email"
+      label: "Confirm Email"
+      type: input
+      input_type: email
+      placeholder: "Confirm Email *"
+      name: "entry.1404406591"
+      pattern: '^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$'
+      maxlength: 255
+      required: false
+      hidden: true
+
+    # form item
+    - id:  "phone"
+      label: "Phone"
+      type: input
+      input_type: text
+      placeholder: "Phone"
+      name: "entry.1333006019"
+      maxlength: 15
+      required: false
+
+    # form item
+    - id:  "subject"
+      label: "Subject"
+      type: input
+      input_type: text
+      placeholder: "Subject"
+      name: "entry.2008139399"
+      maxlength: 255
+      required: false
+
+    # form item
+    - id:  "message"
+      label: "Message"
+      type: textarea
+      input_type: text
+      placeholder: "Your Message *"
+      name: "entry.1150758010"
+      maxlength: 400
+      required: true
+
+    # form item
+    - id : "language"
+      label: "Language"
+      type: select
+      input_type: text
+      placeholder: "Language"
+      name: "entry.740536652"
+      required: false
+      hidden: true
+      default: "EN"
+
 ---
