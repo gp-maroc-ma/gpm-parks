@@ -8,7 +8,8 @@ frontend:
         - tar -xf hugo.tar.gz
     build:
       commands:
-        - ./hugo --gc --minify --baseURL ${BASE_URL} --params gtm=${GTM} --params year=${YEAR} --params cookie_consent=${COOKIE_CONSENT}
+        - ./hugo version
+        - ./hugo --gc --minify --baseURL ${BASE_URL} # Edit Amplify-specific parameters in config/production-amplify/params.toml
   artifacts:
     baseDirectory: public
     files:
