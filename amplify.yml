@@ -9,8 +9,10 @@ frontend:
     build:
       commands:
         - source .env-production # env variables for poduction branch AWS Amplify deploy
+        - GIT_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "0.0.0")
+        - sed -i "s/deployed_git_tag = \".*\"/deployed_git_tag = \"${GIT_TAG}\"/" config/production-amplify/params.toml
         - ./hugo version
-        - ./hugo --gc --minify --baseURL ${BASE_URL} # Edit Amplify-specific parameters in config/production-amplify/params.toml
+        - ./hugo --gc --minify --baseURL ${BASE_URL} --environment ${HUGO_ENVIRONMENT} # Edit Amplify-specific parameters in config/production-amplify/params.toml
   artifacts:
     baseDirectory: public
     files:
